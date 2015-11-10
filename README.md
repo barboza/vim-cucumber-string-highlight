@@ -1,5 +1,5 @@
 #vim-cucumber-string-highlight
----------
+
 A simpe plugin for highlighting string in cucumber scenarios.
 
 
