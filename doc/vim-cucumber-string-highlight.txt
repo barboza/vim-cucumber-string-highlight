@@ -1,1 +1,4 @@
-WIP
+*vim-cucumber-string-highlight* A simple after syntax that highlights strings in cucumber scenarios.
+
+Author: Rafael Barboza
+License: The MIT License (MIT)
